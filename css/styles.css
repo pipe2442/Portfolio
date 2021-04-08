@@ -10242,3 +10242,8 @@ form .row:first-child .floating-label-form-group {
 .dracula {
   background-color: #2d3436;
 }
+
+.image-size {
+  width: 12rem;
+  height: 7rem;
+}
